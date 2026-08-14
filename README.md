@@ -43,6 +43,8 @@ SNS 서비스의 기획부터 API, DB 설계 및 프론트엔드 구현까지 �
 - 인증 및 인가 구현
 
 **Tech**
+`Vue.js` `Vite` `Vue Router` `Pinia` `Axios`  
+`Spring Boot` `Spring Security` `JWT` `MySQL` `Spring Data JPA` `QueryDSL` `Swagger`
 
 ## 🛠️ Tech Stack
 
@@ -68,5 +70,3 @@ SNS 서비스의 기획부터 API, DB 설계 및 프론트엔드 구현까지 �
 
 ### Infra
 - Docker
-`Vue.js` `Vite` `Vue Router` `Pinia` `Axios`  
-`Spring Boot` `Spring Security` `JWT` `MySQL` `Spring Data JPA` `QueryDSL` `Swagger`

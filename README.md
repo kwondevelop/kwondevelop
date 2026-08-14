@@ -72,3 +72,13 @@ SNS 서비스의 기획부터 API, DB 설계 및 프론트엔드 구현까지 �
 
 ### Infra
 - Docker
+
+---
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=kwondevelop&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kwondevelop"
+  width="600"
+  height="300"
+/>
+</a>

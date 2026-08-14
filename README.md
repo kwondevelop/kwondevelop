@@ -46,6 +46,8 @@ SNS 서비스의 기획부터 API, DB 설계 및 프론트엔드 구현까지 �
 `Vue.js` `Vite` `Vue Router` `Pinia` `Axios`  
 `Spring Boot` `Spring Security` `JWT` `MySQL` `Spring Data JPA` `QueryDSL` `Swagger`
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend

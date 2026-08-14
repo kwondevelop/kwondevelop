@@ -7,33 +7,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- Vue.js
-- Vue Router
-- Pinia
-- Axios
-
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- MyBatis
-- QueryDSL
-
-### Database
-- MySQL
-
-### Infra
-- Docker
-
----
-
 ## 🚀 Featured Projects
 
 ### BAEF — 통합 배달 플랫폼 관리 서비스
@@ -70,5 +43,30 @@ SNS 서비스의 기획부터 API, DB 설계 및 프론트엔드 구현까지 �
 - 인증 및 인가 구현
 
 **Tech**
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Vue.js
+- Vue Router
+- Pinia
+- Axios
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- MyBatis
+- QueryDSL
+
+### Database
+- MySQL
+
+### Infra
+- Docker
 `Vue.js` `Vite` `Vue Router` `Pinia` `Axios`  
 `Spring Boot` `Spring Security` `JWT` `MySQL` `Spring Data JPA` `QueryDSL` `Swagger`

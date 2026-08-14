@@ -22,8 +22,8 @@
 - Java
 - Spring Boot
 - Spring Security
-- MyBatis
 - Spring Data JPA
+- MyBatis
 - QueryDSL
 
 ### Database

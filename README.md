@@ -55,17 +55,11 @@ SNS 서비스의 기획부터 API, DB 설계 및 프론트엔드 구현까지 �
 - CSS
 - JavaScript
 - Vue.js
-- Vue Router
-- Pinia
-- Axios
 
 ### Backend
 - Java
 - Spring Boot
-- Spring Security
-- Spring Data JPA
 - MyBatis
-- QueryDSL
 
 ### Database
 - MySQL

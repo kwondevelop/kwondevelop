@@ -27,6 +27,8 @@
 **Tech**
 `Vue.js` `Pinia` `Spring Boot` `Spring Security` `JWT` `MyBatis` `MySQL`
 
+[README.md 보기](https://github.com/kwondevelop/baef-back-p1.git)
+
 ---
 
 ### Meerkatgram — SNS 서비스
@@ -45,6 +47,8 @@ SNS 서비스의 기획부터 API, DB 설계 및 프론트엔드 구현까지 �
 **Tech**
 `Vue.js` `Vite` `Vue Router` `Pinia` `Axios`  
 `Spring Boot` `Spring Security` `JWT` `MySQL` `Spring Data JPA` `QueryDSL` `Swagger`
+
+[README.md 보기](https://github.com/kwondevelop/msa4-meerkatgram.git)
 
 ---
 

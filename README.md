@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### BAEF — 통합 배달 플랫폼 관리 서비스
 
@@ -28,27 +28,6 @@
 `Vue` `Pinia` `Spring Boot` `Spring Security` `JWT` `MyBatis` `MySQL`
 
 [README.md 보기](https://github.com/kwondevelop/baef-back-p1.git)
-
----
-
-### Meerkatgram — SNS 서비스
-
-**개인 / 풀스택**
-
-SNS 서비스의 기획부터 API, DB 설계 및 프론트엔드 구현까지 직접 진행한 프로젝트입니다.
-
-**담당 업무**
-- 서비스 기획
-- API 설계
-- DB 설계
-- 프론트엔드 구현
-- 인증 및 인가 구현
-
-**Tech**
-`Vue` `Vite` `Vue Router` `Pinia` `Axios`  
-`Spring Boot` `Spring Security` `JWT` `MySQL` `Spring Data JPA` `QueryDSL` `Swagger`
-
-[README.md 보기](https://github.com/kwondevelop/msa4-meerkatgram.git)
 
 ---
 
